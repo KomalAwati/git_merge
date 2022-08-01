@@ -1,1 +1,2 @@
 print("Komal")
+print("Awati")
